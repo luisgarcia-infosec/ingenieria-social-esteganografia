@@ -1,0 +1,9 @@
+🚨 FUISTE HACKEADO 🚨
+
+Cambiaste la extensión de un archivo sin saber lo que había adentro.
+
+Seguiste instrucciones sin pensar en el riesgo.
+
+Esto fue una simulación educativa. En la vida real podrías haber ejecutado un malware sin darte cuenta.
+
+Luis García – Red Team | Proyecto educativo
